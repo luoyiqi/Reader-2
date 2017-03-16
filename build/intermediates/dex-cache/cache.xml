@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\sasik\.android\build-cache\87221fabb4969e668b59f7db65610de384fa7756\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\sasik\Documents\GitHub\reader\XYZReader\build\intermediates\pre-dexed\debug\classes_50050d0ab2d0b251c76b85c405a88e350ae9d88e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sasik\.android\build-cache\f163f535ec97435d4c6c643651f2db3732ee6ce4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\sasik\Documents\GitHub\reader\XYZReader\build\intermediates\pre-dexed\debug\classes_f4084b58a015b8da9a0b63461e122f7920e34e1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sasik\.android\build-cache\74ae180e2e618c5653874654796d34dc9e0ce214\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\sasik\Documents\GitHub\reader\XYZReader\build\intermediates\pre-dexed\debug\classes_9290cb5c8b38a329c0e098d2e48b16e3e6170e45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sasik\.android\build-cache\a1458b05654b08b8525f1d40d76e0e0c7d83db11\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\sasik\Documents\GitHub\reader\XYZReader\build\intermediates\pre-dexed\debug\classes_34bf6f47c3d18e79719f2579f2b4bf73270583c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sasik\.android\build-cache\cf068f747be219fbaf0a14a41472cc71d865f284\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\sasik\Documents\GitHub\reader\XYZReader\build\intermediates\pre-dexed\debug\classes_b2cc677e4cfccf0d5581e8aec46c539796be0404.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sasik\.android\build-cache\f31b00ceffdd05d8b7499fd7825872ef841981f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\sasik\Documents\GitHub\reader\XYZReader\build\intermediates\pre-dexed\debug\classes_6bbe2251071cfef9fc76e007f648ddc3353dbdd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sasik\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="C:\Users\sasik\Documents\GitHub\reader\XYZReader\build\intermediates\pre-dexed\debug\okhttp-3.1.2_0248e07076321ef353b8d4a042d385a0084964c9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sasik\Documents\GitHub\reader\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\sasik\Documents\GitHub\reader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_34c7438687e4f16a60faa90b26d2cd39b5a80c61\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sasik\.android\build-cache\792c34c50686f5c00418f4a8ef47e4cfa03ad2e8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\sasik\Documents\GitHub\reader\XYZReader\build\intermediates\pre-dexed\debug\classes_13822e69f1b0885b96999b0c0942e85998ebb08a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sasik\.android\build-cache\8610b19423ad1a987358c63f996b3c1efa8c2bf7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\sasik\Documents\GitHub\reader\XYZReader\build\intermediates\pre-dexed\debug\classes_8282192074802c9874453d8dbc363c0d6500bf87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sasik\.android\build-cache\d474c57c6abcd3323186aa06e79f609621b47e2c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
+        <dex dex="C:\Users\sasik\Documents\GitHub\reader\XYZReader\build\intermediates\pre-dexed\debug\classes_c5af7cdfc4050052ef6d479b6f30832fba92bd4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sasik\.android\build-cache\2e1779154d10e464ab5600ff456e30e01e11d7e4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\sasik\Documents\GitHub\reader\XYZReader\build\intermediates\pre-dexed\debug\classes_186568ff15bca39b7c8374d701d4b9293807b71b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sasik\.android\build-cache\583c3dce48a76771d6971c4aab633c34a12444c4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="C:\Users\sasik\Documents\GitHub\reader\XYZReader\build\intermediates\pre-dexed\debug\classes_0e752aac150a29ee6a185ede9f578185055796a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SDK\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\sasik\Documents\GitHub\reader\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_3ab93f63ae0730539471bf2c07542e49a35e5b7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sasik\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\sasik\Documents\GitHub\reader\XYZReader\build\intermediates\pre-dexed\debug\okio-1.6.0_89e519992cf624c06beb0f85c781ec83227bb591.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sasik\Documents\GitHub\reader\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bace7e5d48cd853da12d0ba621e04384e4f2d06">
+        <dex dex="C:\Users\sasik\Documents\GitHub\reader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0fcaecbbbdd6d471cf5ac47d17166558e83fc335\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sasik\.android\build-cache\c9d61c5686c41679442da0f42115195160cb1a7b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\sasik\Documents\GitHub\reader\XYZReader\build\intermediates\pre-dexed\debug\classes_ea4396f2b76a421cde0a0d0abac9656996172264.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sasik\.android\build-cache\dbb603ebb712ca786dd8d375f2235b83574aaa7f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\sasik\Documents\GitHub\reader\XYZReader\build\intermediates\pre-dexed\debug\classes_b81561dbb5e2838b23dfc2cff30f8bf5d844c7d1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sasik\Documents\GitHub\reader\XYZReader\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\sasik\Documents\GitHub\reader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\2\volley_83fcf0080aaba1fd3b6b299602aed593959e990b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sasik\.android\build-cache\d581c663b1c02a1b4213df50ba65aa1bc28361c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\sasik\Documents\GitHub\reader\XYZReader\build\intermediates\pre-dexed\debug\classes_9dc9edda8022104c5fc6a63115bf156025d9fc2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sasik\.android\build-cache\120cb64d3b4baa521c9d803f54569bedb53e6ebd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="20e6d443b368a3cbcfd9121e6f424708e772967e">
+        <dex dex="C:\Users\sasik\Documents\GitHub\reader\XYZReader\build\intermediates\pre-dexed\debug\classes_b8a25539848cefeca00d505b42f4d5eb59007171.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sasik\Documents\GitHub\reader\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\sasik\Documents\GitHub\reader\XYZReader\build\intermediates\pre-dexed\debug\volley_83fcf0080aaba1fd3b6b299602aed593959e990b.jar" />
+    </item>
+
+</items>

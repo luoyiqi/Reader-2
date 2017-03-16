@@ -1,0 +1,140 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:1:1-50:12
+	package
+		ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:2:5-36
+	android:versionName
+		ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:8:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:9:22-76
+application
+ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:11:5-48:19
+MERGED from [com.android.support:design:25.2.0] C:\Users\sasik\.android\build-cache\dbb603ebb712ca786dd8d375f2235b83574aaa7f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\sasik\.android\build-cache\cf068f747be219fbaf0a14a41472cc71d865f284\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\sasik\.android\build-cache\87221fabb4969e668b59f7db65610de384fa7756\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\sasik\.android\build-cache\8610b19423ad1a987358c63f996b3c1efa8c2bf7\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\sasik\.android\build-cache\c9d61c5686c41679442da0f42115195160cb1a7b\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:25.2.0] C:\Users\sasik\.android\build-cache\d474c57c6abcd3323186aa06e79f609621b47e2c\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\sasik\.android\build-cache\120cb64d3b4baa521c9d803f54569bedb53e6ebd\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\sasik\.android\build-cache\f163f535ec97435d4c6c643651f2db3732ee6ce4\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\sasik\.android\build-cache\a1458b05654b08b8525f1d40d76e0e0c7d83db11\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\sasik\.android\build-cache\d581c663b1c02a1b4213df50ba65aa1bc28361c2\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\sasik\.android\build-cache\2e1779154d10e464ab5600ff456e30e01e11d7e4\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\sasik\.android\build-cache\583c3dce48a76771d6971c4aab633c34a12444c4\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\sasik\.android\build-cache\74ae180e2e618c5653874654796d34dc9e0ce214\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\sasik\.android\build-cache\792c34c50686f5c00418f4a8ef47e4cfa03ad2e8\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:13:9-43
+	android:theme
+		ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:15:9-40
+activity#com.example.xyzreader.ui.ArticleListActivity
+ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:20:13-45
+	android:theme
+		ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:19:13-44
+	android:name
+		ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:18:13-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:23:27-74
+activity#com.example.xyzreader.ui.ArticleDetailActivity
+ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:27:9-39:20
+	android:parentActivityName
+		ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:30:13-65
+	android:theme
+		ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:29:13-51
+	android:name
+		ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:28:13-53
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:33:17-76
+	android:name
+		ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:33:27-73
+data
+ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:34:17-100
+	android:mimeType
+		ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:34:23-97
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:36:13-38:59
+	android:value
+		ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:38:17-56
+	android:name
+		ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:37:17-63
+service#com.example.xyzreader.data.UpdaterService
+ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:41:9-42:40
+	android:exported
+		ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:41:18-53
+provider#com.example.xyzreader.data.ItemsProvider
+ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:44:9-46:40
+	android:authorities
+		ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:45:13-56
+	android:exported
+		ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml:44:19-53
+uses-sdk
+INJECTED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.2.0] C:\Users\sasik\.android\build-cache\dbb603ebb712ca786dd8d375f2235b83574aaa7f\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\sasik\.android\build-cache\cf068f747be219fbaf0a14a41472cc71d865f284\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\sasik\.android\build-cache\87221fabb4969e668b59f7db65610de384fa7756\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\sasik\.android\build-cache\8610b19423ad1a987358c63f996b3c1efa8c2bf7\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:transition:25.2.0] C:\Users\sasik\.android\build-cache\c9d61c5686c41679442da0f42115195160cb1a7b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\sasik\.android\build-cache\f31b00ceffdd05d8b7499fd7825872ef841981f2\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.2.0] C:\Users\sasik\.android\build-cache\d474c57c6abcd3323186aa06e79f609621b47e2c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\sasik\.android\build-cache\120cb64d3b4baa521c9d803f54569bedb53e6ebd\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\sasik\.android\build-cache\f163f535ec97435d4c6c643651f2db3732ee6ce4\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\sasik\.android\build-cache\a1458b05654b08b8525f1d40d76e0e0c7d83db11\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\sasik\.android\build-cache\d581c663b1c02a1b4213df50ba65aa1bc28361c2\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\sasik\.android\build-cache\2e1779154d10e464ab5600ff456e30e01e11d7e4\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\sasik\.android\build-cache\583c3dce48a76771d6971c4aab633c34a12444c4\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\sasik\.android\build-cache\74ae180e2e618c5653874654796d34dc9e0ce214\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\sasik\.android\build-cache\792c34c50686f5c00418f4a8ef47e4cfa03ad2e8\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] C:\Users\sasik\.android\build-cache\dbb603ebb712ca786dd8d375f2235b83574aaa7f\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sasik\Documents\GitHub\reader\XYZReader\src\main\AndroidManifest.xml

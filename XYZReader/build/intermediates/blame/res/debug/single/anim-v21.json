@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\sasik\\Documents\\GitHub\\reader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\sasik\\.android\\build-cache\\dbb603ebb712ca786dd8d375f2235b83574aaa7f\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\sasik\\Documents\\GitHub\\reader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\slide_up.xml",
+        "source": "C:\\Users\\sasik\\Documents\\GitHub\\reader\\XYZReader\\src\\main\\res\\anim-v21\\slide_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\sasik\\Documents\\GitHub\\reader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\stay.xml",
+        "source": "C:\\Users\\sasik\\Documents\\GitHub\\reader\\XYZReader\\src\\main\\res\\anim-v21\\stay.xml"
+    },
+    {
+        "merged": "C:\\Users\\sasik\\Documents\\GitHub\\reader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\slide_down.xml",
+        "source": "C:\\Users\\sasik\\Documents\\GitHub\\reader\\XYZReader\\src\\main\\res\\anim-v21\\slide_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\sasik\\Documents\\GitHub\\reader\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\sasik\\.android\\build-cache\\dbb603ebb712ca786dd8d375f2235b83574aaa7f\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    }
+]
